@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83aa8c81-7f6a-4c81-9498-34bcdd02b154" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indian States Census Analyser Problem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/src/main/java/com/bridgelabz/statecensusanalyser/A-1_NO_OF_VILLAGES_TOWNS_HOUSEHOLDS_POPULATION_AND_AREA.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/src/main/java/com/bridgelabz/statecensusanalyser/CSVStateCensus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/src/main/java/com/bridgelabz/statecensusanalyser/CSVStateCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/src/main/java/com/bridgelabz/statecensusanalyser/CensusAnalyserException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/src/main/java/com/bridgelabz/statecensusanalyser/ScsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/src/main/java/com/bridgelabz/statecensusanalyser/StateCensusAnalyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/src/main/java/com/bridgelabz/statecensusanalyser/StateCensusData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/src/main/java/com/bridgelabz/statecensusanalyser/StateCodeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/src/main/java/com/bridgelabz/statecensusanalyser/statewise-census-data-in-india-1901-2011.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/src/main/java/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MCYJu440mhdoxodEcN1i4MVZlD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83aa8c81-7f6a-4c81-9498-34bcdd02b154" name="Changes" comment="" />
+      <created>1677272964624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677272964624</updated>
+    </task>
+    <servers />
+  </component>
+</project>
